@@ -36,6 +36,7 @@ nav.navbar.bootsnav{
     -o-border-radius: 0px;
     border-radius: 0px;
     background-color: #fff;
+    padding: -10px;
     border: none;
     z-index: 9;
 }
@@ -192,8 +193,8 @@ li.close-full-menu > a{
 }
 
 li.close-full-menu{
-    padding-top: 30px;
-    padding-bottom: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 /* Atribute Navigation
