@@ -81,7 +81,8 @@ ul.menu-col{
 }
 
 ul.menu-col li a{
-    color: #6f6f6f;
+    color: #ffffff;
+    font-size: bold;
 }
 
 ul.menu-col li a:hover,
@@ -439,7 +440,7 @@ nav.navbar.bootsnav .share ul > li > a{
     -webkit-border-radius: 50%;
     -o-border-radius: 50%;
     border-radius: 50%;
-    background-color: #cfcfcf;
+    background-color: #ffffff;
     color: #fff;
 }
 
@@ -538,7 +539,7 @@ nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:
         border-radius: 0px;
         padding: 0;
         width: 200px;
-        background: #000000;
+        background: #008cff;
 		border: none;
 		padding: 30px 0;
     }
@@ -546,7 +547,7 @@ nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:
     nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li a:hover,
     nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li a:hover{
         background-color: transparent;
-		color: #0276FD;
+		color: rgb(255, 254, 254);
 		-ms-transform: translateX(3px);
 		-webkit-transform: translateX(3px);
 		transform: translateX(3px);
@@ -554,7 +555,7 @@ nav.navbar.bootsnav ul.dropdown-menu.megamenu-content .content ul.menu-col li a:
     
     nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li > a{
         padding: 10px 15px;
-        color: #6f6f6f;
+        color: #ffffff;
     }
     
     nav.navbar.bootsnav li.dropdown ul.dropdown-menu > li:last-child > a{
